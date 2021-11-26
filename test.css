@@ -1,0 +1,89 @@
+*{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+
+.navbar{ background:#000303;
+opacity:0.9}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.navbar-brand{margin-left: 45px;
+text-transform:uppercase ;}
+
+.nav-link{ margin-right: 1em !important;}
+.navbar-collapse{ justify-content:center;}
+.navbar-toggler{  background:rgb(82, 80, 80) !important;}
+.nav-link:hover{ background: #ecd9d9; opacity: 0.6; }
+header {
+background-image: url(img/ban.png);
+height: 650px;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+.contact-form{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+}
+h5{
+    text-align: center;
+    color: white;
+}
+form{
+    height: 350px;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.form-group {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.form-control{
+    border: 0px;
+    border-bottom: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 200px;
+    font-size: 14px;
+    margin-left: 50px;
+    text-align: center;
+}
+.form-button{
+    width: 200px;
+    margin-left: 50px;
+    background: #0aa321 !important;
+}
+
+.article-cards{
+    background-image: url(img/cards.png);
+    height: 100%;
+    background-size: cover;
+
+}
+
+.card{
+    background: none !important;
+    border: none!important;
+    }
+    article{
+        height: 500px;
+    }
+    footer{
+        background: black !important;
+        height: 100%;
+    }
+  .nav-footer {
+      display: flex;
+      justify-content: flex-end;
+  }
+   
+       
+   
+
+
+       
+       
+
+  
